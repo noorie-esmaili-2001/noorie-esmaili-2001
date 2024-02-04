@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Noorie Esmaili: @noorie-esmaili-2001
+- 👀 I’m interested in being a DevOps Engineer.
+- 🌱 I’m currently reviewing what I have learned till now from the university.
+- 💞️ I’m looking to collaborate on any full-stack development project.
+- 📫 How to reach me noorie.esmaili@gmail.com.
